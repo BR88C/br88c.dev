@@ -9,7 +9,7 @@
     "lint": "eslint ./src",
     "lint:fix": "eslint ./src --fix",
     "lint:install": "npm i --also=dev && npm run lint",
-    "start": "sirv public --no-clear",
+    "start": "sirv docs --no-clear",
     "test:build": "npm run build:install",
     "test:lint": "npm run lint:install"
   },
