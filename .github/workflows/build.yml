@@ -44,11 +44,11 @@ jobs:
           REPO="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           TARGET_BRANCH="build"
           git clone $REPO out -b $TARGET_BRANCH
-          rm -rfv out/docs/*
+          rm -rfv out/public/*
           rsync -vaI LICENSE out/
           rsync -vaI package.json out/
           rsync -vaI README.md out/
-          rsync -vaI docs/ out/docs
+          rsync -vaI public/ out/public
           cd out
           git add --all .
           git config user.name "${GITHUB_ACTOR}"
