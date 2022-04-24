@@ -222,9 +222,9 @@
     <div style='display: flex; margin: auto; margin-top: 4vh; flex-wrap: wrap; align-content: center; justify-content: center; gap: 1vh;'>
         {#each technologies as technology}
             <Saos animation={`slide-in-elliptic-bottom-fwd 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both`}>
-                <div style='display: flex; max-width: 30vh; padding: 2vh; align-items: center; background: #00000022; border-radius: 3vh; gap: 1vh;'>
+                <div style='display: flex; max-width: 30vh; padding: 2vh; align-items: center; background: #00000022; border-radius: 3vh; gap: 2vh;'>
                     <svg style='width: 5vh; flex-shrink: 0' role='img' viewBox='0 0 24 24'><title>{technology.name}</title><path fill='#f6f0f0' d={technology.svg}></path>></svg>
-                    <p>{technology.name}</p>
+                    <p style="font-size: 1.5em;">{technology.name}</p>
                 </div>
             </Saos>
         {/each}
@@ -260,7 +260,7 @@
         0% {
             transform: translateY(-1000px) scaleY(2.5) scaleX(0.2);
             transform-origin: 50% 0%;
-            filter: blur(40px);
+            filter: blur(15px);
             opacity: 0;
         }
 
@@ -275,7 +275,7 @@
     @keyframes -global-slide-in-fwd-center-blurred {
         0% {
             transform: translateZ(-1400px);
-            filter: blur(20px);
+            filter: blur(15px);
             opacity: 0;
         }
         100% {
