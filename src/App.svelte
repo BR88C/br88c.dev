@@ -41,7 +41,7 @@
         },
         {
             name: `Peter!`,
-            description: `Peter is a feature rich Discord music bot that offers features such as 24/7 and audio effects for free. It serves over 4,900 servers, with a combined total of over 500,000 users.`,
+            description: `Peter is a Discord music bot that offers features such as 24/7 and audio effects for free. It serves over 4,900 servers, with a combined total of over 500,000 users.`,
             link: `https://github.com/BR88C/peter`,
             technologies: [
                 {
