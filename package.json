@@ -1,0 +1,57 @@
+{
+  "name": "br88c.dev",
+  "version": "1.0.0",
+  "description": "My portfolio website.",
+  "scripts": {
+    "build": "rollup -c",
+    "build:install": "npm i --also=dev && npm run build",
+    "dev": "rollup -c -w",
+    "lint": "eslint ./src",
+    "lint:fix": "eslint ./src --fix",
+    "lint:install": "npm i --also=dev && npm run lint",
+    "start": "sirv public --no-clear",
+    "test:build": "npm run build:install",
+    "test:lint": "npm run lint:install"
+  },
+  "keywords": [
+    "BR88C",
+    "Bryce Roethel",
+    "portfolio",
+    "svelte"
+  ],
+  "homepage": "https://br88c.dev",
+  "bugs": {
+    "url": "https://github.com/BR88C/br88c.dev/issues"
+  },
+  "license": "GPL-3.0",
+  "author": "BR88C",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BR88C/br88c.dev.git"
+  },
+  "devDependencies": {
+    "@br88c/eslint-config": "^1.4.0",
+    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-node-resolve": "^11.0.0",
+    "@rollup/plugin-typescript": "^8.0.0",
+    "@tsconfig/svelte": "^2.0.0",
+    "eslint": "^8.14.0",
+    "rollup": "^2.3.4",
+    "rollup-plugin-css-only": "^3.1.0",
+    "rollup-plugin-livereload": "^2.0.0",
+    "rollup-plugin-svelte": "^7.0.0",
+    "rollup-plugin-terser": "^7.0.0",
+    "saos": "^1.2.0",
+    "sirv-cli": "^2.0.0",
+    "svelte": "^3.0.0",
+    "svelte-check": "^2.0.0",
+    "svelte-preprocess": "^4.0.0",
+    "tslib": "^2.0.0",
+    "typescript": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=16.13.0",
+    "npm": ">=8.1.0"
+  },
+  "private": true
+}
