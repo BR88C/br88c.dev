@@ -25,7 +25,7 @@
     const projects: Project[] = [
         {
             name: `Distype`,
-            description: `A Discord library built from scratch that offers little abstraction from the Discord API.`,
+            description: `A Discord library written in TypeScript for developers looking to interface directly with the Discord API with little to no abstractions.`,
             link: `https://github.com/distype/distype`,
             technologies: [
                 {
@@ -41,7 +41,7 @@
         },
         {
             name: `Peter!`,
-            description: `Peter is a Discord music bot that offers features such as 24/7 and audio effects for free. It serves over 4,900 servers, with a combined total of over 500,000 users.`,
+            description: `Peter is a Discord music bot that offers features such as 24/7 and audio effects for free. It serves a combined total of over 1.2 million users across over 5,000 communities.`,
             link: `https://github.com/BR88C/peter`,
             technologies: [
                 {
