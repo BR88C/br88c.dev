@@ -41,7 +41,7 @@
         },
         {
             name: `Peter!`,
-            description: `Peter is a Discord music bot that offers features such as 24/7 and audio effects for free. It serves a combined total of over 1.2 million users across over 5,000 communities.`,
+            description: `Peter is a Discord music bot that offers features such as 24/7 and audio effects for free. It serves a combined total of over 1.5 million users across over 5,500 communities.`,
             link: `https://github.com/BR88C/peter`,
             technologies: [
                 {
@@ -65,7 +65,7 @@
         },
         {
             name: `Krew.io`,
-            description: `Krew.io is a multiplayer 3D online game, centered around shooting and sinking other pirate ships to get gold, buying bigger and better boats, and climbing the leaderboard. I worked on adding several new and defining game mechanics, optimization of both the front-end and back-end, as well as a full rewrite of all client facing code. During my development, the game saw 4,500 unique players daily.`,
+            description: `Krew.io is a multiplayer 3D online game, centered around shooting and sinking other pirate ships to get gold, buying bigger and better boats, and climbing the leaderboard. I worked on adding several new and defining game mechanics, optimization of both the front-end and back-end, as well as a full rewrite of all client facing code. During my development, the game saw over 5,000 unique players daily.`,
             link: `https://krew.io`,
             technologies: [
                 {
