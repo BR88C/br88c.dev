@@ -205,7 +205,7 @@
     </Saos>
 
     <Saos animation='slide-in-blurred-top 0.5s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'>
-        <p style='max-width: 80vh; margin: auto; margin-top: 3vh; font-size: 1.4em; opacity: 0.6;'>Casual programmer that enjoys back-end development. Experienced with Typescript / Node.js, as well as Java. Also dabbling with C.</p>
+        <p style='max-width: 80vh; margin: auto; margin-top: 3vh; font-size: 1.4em; opacity: 0.6;'>Programmer that enjoys back-end development. Experienced with Typescript / Node.js, as well as Java. Also dabbling with C.</p>
     </Saos>
 
     <Saos animation='slide-in-blurred-top 0.4s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'>
