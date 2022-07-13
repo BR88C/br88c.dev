@@ -1,6 +1,6 @@
 {
   "name": "br88c.dev",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "My portfolio website.",
   "scripts": {
     "build": "rollup -c",
