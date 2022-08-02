@@ -191,7 +191,7 @@
     </Saos>
 
     <Saos animation='slide-in-blurred-top 0.7s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'>
-        <h1 style='color: #ff6666; font-size: 4em; font-weight: 700;'>
+        <h1 style='color: #ea5454; font-size: 4em; font-weight: 700;'>
             Bryce Roethel
         </h1>
     </Saos>
@@ -205,7 +205,7 @@
     </Saos>
 
     <Saos animation='slide-in-blurred-top 0.5s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'>
-        <p style='max-width: 80vh; margin: auto; margin-top: 3vh; font-size: 1.4em; opacity: 0.6;'>Programmer that enjoys back-end development. Experienced with Typescript / Node.js, as well as Java. Also dabbling with C.</p>
+        <p style='max-width: 80vh; margin: auto; margin-top: 3vh; font-size: 1.4em; opacity: 0.8;'>Programmer that enjoys back-end development. Experienced with Typescript / Node.js, as well as Java. Also dabbling with C.</p>
     </Saos>
 
     <Saos animation='slide-in-blurred-top 0.4s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'>
@@ -216,7 +216,7 @@
 
 
     <Saos animation='slide-in-fwd-center-blurred 0.4s cubic-bezier(0.230, 1.000, 0.320, 1.000)'>
-        <h3 style='margin-top: 40vh; color: #ff6666; font-size: 3em;'>Solution Stack:</h3>
+        <h3 style='margin-top: 40vh; color: #ea5454; font-size: 3em;'>Solution Stack:</h3>
     </Saos>
 
     <div style='display: flex; margin: auto; margin-top: 4vh; flex-wrap: wrap; align-content: center; justify-content: center; gap: 1vh;'>
@@ -232,7 +232,7 @@
 
 
     <Saos animation='slide-in-fwd-center-blurred 0.4s cubic-bezier(0.230, 1.000, 0.320, 1.000)'>
-        <h3 style='margin-top: 15vh; color: #ff6666; font-size: 3em;'>Here are some of my projects:</h3>
+        <h3 style='margin-top: 15vh; color: #ea5454; font-size: 3em;'>Here are some of my projects:</h3>
     </Saos>
 
     <div style='display: flex; margin: auto; margin-top: 4vh; margin-bottom: 5vh; flex-direction: column; flex-wrap: wrap; align-content: center; justify-content: center; gap: 3vh;'>

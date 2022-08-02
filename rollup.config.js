@@ -36,7 +36,7 @@ export default {
         sourcemap: true,
         format: `iife`,
         name: `app`,
-        file: `public/build/bundle.js`
+        file: `docs/build/bundle.js`
     },
     plugins: [
         svelte({
@@ -56,7 +56,7 @@ export default {
         }),
 
         !production && serve(),
-        !production && livereload(`public`),
+        !production && livereload(`docs`),
         production && terser()
     ],
     watch: { clearScreen: false }

@@ -7,7 +7,7 @@
     "dev": "rollup -c -w",
     "lint": "eslint ./src",
     "lint:fix": "eslint ./src --fix",
-    "start": "sirv public --no-clear"
+    "start": "sirv docs --no-clear"
   },
   "keywords": [
     "BR88C",
