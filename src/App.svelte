@@ -41,7 +41,7 @@
         },
         {
             name: `Peter!`,
-            description: `Peter is a Discord music bot that offers features such as 24/7 and audio effects for free. It serves a combined total of over 1.5 million users across over 5,500 communities.`,
+            description: `Peter is an online music service for sharing and listening to music with your friends. It serves a combined total of over 1.5 million users across over 13,000 online communities.`,
             link: `https://github.com/BR88C/peter`,
             technologies: [
                 {
@@ -205,7 +205,7 @@
     </Saos>
 
     <Saos animation='slide-in-blurred-top 0.5s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'>
-        <p style='max-width: 80vh; margin: auto; margin-top: 3vh; font-size: 1.4em; opacity: 0.8;'>Programmer that enjoys back-end development. Experienced with Typescript / Node.js, as well as Java. Also dabbling with C.</p>
+        <p style='max-width: 80vh; margin: auto; margin-top: 3vh; font-size: 1.4em; opacity: 0.8;'>Programmer that enjoys back-end development. Experienced with Typescript / Node.js, as well as Java.</p>
     </Saos>
 
     <Saos animation='slide-in-blurred-top 0.4s cubic-bezier(0.230, 1.000, 0.320, 1.000) both'>
